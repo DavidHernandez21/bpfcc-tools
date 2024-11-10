@@ -51,3 +51,4 @@ I would recommend to install the tools using the package manager of your distrib
 
 - [Ply](https://github.com/iovisor/ply)
 - [0xtools](https://github.com/tanelpoder/0xtools)
+- [kernelshark / trace-cmd](https://github.com/yordan-karadzhov/kernel-shark)
